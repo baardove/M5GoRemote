@@ -10,6 +10,10 @@ Uses a cheap M5StickC as a GoPro Hero Wifi Remote
 - Shows signal strength
 - Easy to configure
 
+VIDEO
+
+https://www.youtube.com/watch?v=QGrIxi5znqY
+
 CONTRIBUTIONS
 
 The initial code is based on the open source version 1337Remote by Eurodesign.de
